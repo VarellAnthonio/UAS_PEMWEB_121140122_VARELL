@@ -39,7 +39,7 @@ Kunjungi situs web saya: [121140122.rf.gd](http://121140122.rf.gd/login.php)
 - Mendaftar pada penyedia hosting, dengan memilih Infintyfree.com sebagai penyedia hosting gratis.
 - Mengunggah file aplikasi menggunakan file manager yang disediakan oleh layanan hosting.
 - Membuat database di panel infinityfree.com dan menghubungkannya dengan aplikasi web.
-- Memastikan konfigurasi koneksi database pada file PHP sesuai dengan informasi database di 000webhost.
+- Memastikan konfigurasi koneksi database pada file PHP sesuai dengan informasi database di infinityfree.com.
 - Melakukan testing untuk memastikan aplikasi berjalan dengan baik setelah di-hosting.
 
 2. Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
