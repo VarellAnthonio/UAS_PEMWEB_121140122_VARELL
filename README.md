@@ -10,16 +10,16 @@ Proyek ini merupakan implementasi website Manajemen Pengguna menggunakan teknolo
 ## Link Halaman Web
 Kunjungi situs web saya: [121140122.rf.gd](http://121140122.rf.gd/login.php)
 
+## USERNAME DAN PASSWORD
+- Username : admin
+- Password : admin123
+  
 ## Fitur
 - Menampilkan data pengguna
 - Menambahkan data pengguna
 - Mengedit data pengguna
 - Menghapus Data Pengguna
 - Mencari Data Pengguna
-
-## USERNAME DAN PASSWORD
-- Username : admin
-- Password : admin123
 
 ## Capaian
 ### Bagian 1: Client-side Programming (Bobot: 30%)
