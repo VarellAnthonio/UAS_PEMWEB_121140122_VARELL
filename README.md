@@ -8,7 +8,7 @@
 Proyek ini merupakan implementasi website Manajemen Pengguna menggunakan teknologi client-side dan server-side programming. Menggunakan JavaScript, PHP, dan MySQL untuk mengelola data pengguna.
 
 ## Link Halaman Web
-Kunjungi situs web saya: [https://121140122.rf.gd](https://121140122.rf.gd)
+Kunjungi situs web saya: (https://121140122.rf.gd)
 
 ## Fitur
 - Menampilkan data pengguna
@@ -18,8 +18,8 @@ Kunjungi situs web saya: [https://121140122.rf.gd](https://121140122.rf.gd)
 - Mencari Data Pengguna
 
 ## USERNAME DAN PASSWORD
-Username : admin
-Password : admin123
+- Username : admin
+- Password : admin123
 
 ## Capaian
 ### Bagian 1: Client-side Programming (Bobot: 30%)
