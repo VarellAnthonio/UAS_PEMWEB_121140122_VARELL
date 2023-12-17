@@ -8,7 +8,7 @@
 Proyek ini merupakan implementasi website Manajemen Pengguna menggunakan teknologi client-side dan server-side programming. Menggunakan JavaScript, PHP, dan MySQL untuk mengelola data pengguna.
 
 ## Link Halaman Web
-- [Website](#http://121140122.rf.gd/)
+Kunjungi situs web saya: [https://121140122.rf.gd](https://121140122.rf.gd)
 
 ## Fitur
 - Menampilkan data pengguna
@@ -17,30 +17,40 @@ Proyek ini merupakan implementasi website Manajemen Pengguna menggunakan teknolo
 - Menghapus Data Pengguna
 - Mencari Data Pengguna
 
+## USERNAME DAN PASSWORD
+Username : admin
+Password : admin123
+
 ## Capaian
 ### Bagian 1: Client-side Programming (Bobot: 30%)
 - Saya berhasil membuat beberapa interaksi dengan menggunakan fitur DOM JavaScript, seperti menambah dan menghapus atribut pada form.
 
 ### Bagian 2: Server-side Programming (Bobot: 30%)
-Dalam pengembangan server-side, saya berhasil membuat skrip PHP yang menggunakan $_POST dan $_GET untuk mentransfer data saat proses CRUD.
+- Dalam pengembangan server-side, saya berhasil membuat skrip PHP yang menggunakan $_POST dan $_GET untuk mentransfer data saat proses CRUD.
 
 ### Bagian 3: Database Management (Bobot: 20%)
-Saya berhasil membuat sebuah database menggunakan MariaDB dan mengimplementasikan sistem CRUD sebagai manajemen database.
+- Saya berhasil membuat sebuah database menggunakan MariaDB dan mengimplementasikan sistem CRUD sebagai manajemen database.
 
 ### Bagian 4: State Management (Bobot: 20%)
-Dalam manajemen state, saya berhasil membuat dan mengelola sesi menggunakan PHP untuk Login dan menyimpan informasi state saat pengguna melakukan aksi di website.
+- Dalam manajemen state, saya berhasil membuat dan mengelola sesi menggunakan PHP untuk Login dan menyimpan informasi state saat pengguna melakukan aksi di website.
 
 ### Bagian Bonus: Hosting Aplikasi Web (Bobot: 20%)
 1. Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
 - Mendaftar pada penyedia hosting, dengan memilih Infintyfree.com sebagai penyedia hosting gratis.
-- Melakukan konfigurasi website dan database.
 - Mengunggah file aplikasi menggunakan file manager yang disediakan oleh layanan hosting.
+- Membuat database di panel infinityfree.com dan menghubungkannya dengan aplikasi web.
+- Memastikan konfigurasi koneksi database pada file PHP sesuai dengan informasi database di 000webhost.
+- Melakukan testing untuk memastikan aplikasi berjalan dengan baik setelah di-hosting.
 
 2. Pilih penyedia hosting web yang menurut Anda paling cocok untuk aplikasi web Anda. Berikan alasan Anda.
--Saya memilih Infintyfree.com sebagai penyedia hosting karena mereka menyediakan layanan hosting secara gratis, konfigurasi yang mudah dan mampu meng-host website dengan dukungan database.
+- Saya memilih Infintyfree.com sebagai penyedia hosting karena mereka menyediakan layanan hosting secara gratis, konfigurasi yang mudah dan mampu meng-host website dengan dukungan database.
 
 3. Bagaimana Anda memastikan keamanan aplikasi web yang Anda host?
-Untuk memastikan keamanan aplikasi web yang saya host, saya mengatur username dan password dengan kombinasi yang sulit ditebak, mengurangi risiko potensial dari serangan.
+- Untuk memastikan keamanan aplikasi web yang saya host, saya mengatur username dan password dengan kombinasi yang sulit ditebak, mengurangi risiko potensial dari serangan.
+- Mengimplementasikan validasi input pada sisi klien dan sisi server untuk mencegah serangan injeksi.
 
 4. Jelaskan konfigurasi server yang Anda terapkan untuk mendukung aplikasi web Anda.
-Konfigurasi server yang saya terapkan mencakup pengaturan alamat website dan konfigurasi database website, memastikan semuanya sesuai dengan kebutuhan aplikasi.
+- Konfigurasi server yang saya terapkan mencakup pengaturan alamat website dan konfigurasi database website, memastikan semuanya sesuai dengan kebutuhan aplikasi.
+- Menggunakan versi PHP yang sesuai dengan kebutuhan aplikasi.
+- Menetapkan izin file dan direktori yang tepat untuk memastikan keamanan dan konsistensi.
+- Menyesuaikan batas memori PHP sesuai dengan kebutuhan aplikasi.
