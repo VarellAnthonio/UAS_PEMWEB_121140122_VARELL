@@ -1,7 +1,7 @@
 # WEBSITE MEMBERSHIP MANAGEMENT-TUGAS UAS PEMWEB
 
 ## Identias
-  Nama : Varell Anthonio
+  -Nama : Varell Anthonio
   NIM  : 121140122
 
 ## Deskripsi Proyek
