@@ -1,8 +1,11 @@
-# Nama Proyek
+# WEBSITE MEMBERSHIP MANAGEMENT-TUGAS UAS PEMWEB
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+##Identias
+  Nama : Varell Anthonio
+  NIM  : 121140122
 
-Deskripsi singkat proyek Anda di sini. Gambarkan apa yang proyek Anda lakukan, mengapa itu berguna, dan apa yang membuatnya unik.
+##Deskripsi Proyek
+  Proyek ini merupakan implementasi sistem perencanaan latihan (Workout Planner) berbasis web. Pengguna dapat menambah, mengedit, dan menghapus jadwal latihan mereka. Proyek ini menggunakan kombinasi pemrograman sisi klien dan sisi server, dengan JavaScript dan PHP sebagai teknologi utama.
 
 ## Daftar Isi
 
