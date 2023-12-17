@@ -1,8 +1,8 @@
 # WEBSITE MEMBERSHIP MANAGEMENT-TUGAS UAS PEMWEB
 
 ## Identias
-  -Nama : Varell Anthonio
-  NIM  : 121140122
+  - [Nama : Varell Anthonio]
+  - [NIM  : 121140122]
 
 ## Deskripsi Proyek
   Proyek ini merupakan implementasi sistem perencanaan latihan (Workout Planner) berbasis web. Pengguna dapat menambah, mengedit, dan menghapus jadwal latihan mereka. Proyek ini menggunakan kombinasi pemrograman sisi klien dan sisi server, dengan JavaScript dan PHP sebagai teknologi utama.
